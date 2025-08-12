@@ -1,0 +1,28 @@
+{
+  "name": "hw-6",
+  "version": "1.0.0",
+  "description": "четвертий семестр",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sheremetkyryl/hw-6.git"
+  },
+  "keywords": [],
+  "author": "Sheremet Kyryl <kruisher@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sheremetkyryl/hw-6/issues"
+  },
+  "homepage": "https://github.com/sheremetkyryl/hw-6#readme",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "handlebars": "^4.7.8"
+  }
+}
