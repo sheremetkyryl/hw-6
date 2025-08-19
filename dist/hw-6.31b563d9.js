@@ -160,11 +160,11 @@
       });
     }
   }
-})({"5j6Kf":[function(require,module,exports,__globalThis) {
+})({"22Ais":[function(require,module,exports,__globalThis) {
 var global = arguments[3];
 var HMR_HOST = null;
 var HMR_PORT = null;
-var HMR_SERVER_PORT = 1234;
+var HMR_SERVER_PORT = 60158;
 var HMR_SECURE = false;
 var HMR_ENV_HASH = "439701173a9199ea";
 var HMR_USE_SSE = false;
@@ -11911,6 +11911,6 @@ exports.export = function(dest, destName, get) {
 },{}],"2VqE4":[function(require,module,exports,__globalThis) {
 module.exports = "<ul class=\"products__list\">\r\n    {{#each this}}\r\n    <li class=\"products__item\">\r\n        <article class=\"product\">\r\n            <h2 class=\"product__title\">{{name}}</h2>\r\n            <p class=\"product__price\">{{price}}</p>\r\n            <p class=\"product__description\">{{description}}</p>\r\n        </article>\r\n    </li>\r\n    {{/each}}\r\n</ul>";
 
-},{}]},["5j6Kf","a0t4e"], "a0t4e", "parcelRequire4666", {})
+},{}]},["22Ais","a0t4e"], "a0t4e", "parcelRequire4666", {})
 
 //# sourceMappingURL=hw-6.31b563d9.js.map
